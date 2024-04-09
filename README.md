@@ -64,7 +64,7 @@ Ruby, Ruby on Rails, Postgresql, Visual Studio Code
 In order to use this project:
 
 ```
-git clone https://github.com/newtonah0/rails-back-end.git
+git clone https://github.com/m00h0/rails-back-end.git
 cd hello-rails-back-end
 ```
 
