@@ -71,7 +71,7 @@ cd hello-rails-back-end
 In order to use the frontend app:
 
 ```
-git clone https://github.com/newtonah0/react-front-end.git
+git clone https://github.com/m00h0/react-front-end.git
 cd hello-react-front-end
 ```
 
