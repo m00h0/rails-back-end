@@ -101,7 +101,7 @@ rails server
 
 ### Front-end App <a name="fronted"></a>
 
-Front-end App [Link](https://github.com/newtonah0/react-front-end.git)
+Front-end App [Link](https://github.com/m00h0/react-front-end.git)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -109,7 +109,7 @@ Front-end App [Link](https://github.com/newtonah0/react-front-end.git)
 ## 👥 Author <a name="author"></a>
 
 👤 **Ahmed**
-- GitHub: [@newtonah0](https://github.com/newtonah0)
+- GitHub: [@m00h0](https://github.com/m00h0)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
